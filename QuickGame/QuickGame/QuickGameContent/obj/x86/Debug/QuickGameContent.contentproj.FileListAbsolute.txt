@@ -1,0 +1,2 @@
+c:\users\denem\documents\visual studio 2015\Projects\QuickGame\QuickGame\QuickGameContent\obj\x86\Debug\QuickGameContent.contentprojResolveAssemblyReference.cache
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGameContent\obj\x86\Debug\QuickGameContent.contentprojResolveAssemblyReference.cache

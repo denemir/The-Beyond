@@ -1,0 +1,44 @@
+c:\users\denem\documents\visual studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\QuickGame.exe
+c:\users\denem\documents\visual studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\QuickGame.pdb
+c:\users\denem\documents\visual studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\denem\documents\visual studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\denem\documents\visual studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\denem\documents\visual studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\denem\documents\visual studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\denem\documents\visual studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\denem\documents\visual studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\denem\documents\visual studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\denem\documents\visual studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\denem\documents\visual studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\denem\documents\visual studio 2015\Projects\QuickGame\QuickGame\QuickGame\obj\x86\Debug\QuickGame.csprojResolveAssemblyReference.cache
+c:\users\denem\documents\visual studio 2015\Projects\QuickGame\QuickGame\QuickGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\denem\documents\visual studio 2015\Projects\QuickGame\QuickGame\QuickGame\obj\x86\Debug\QuickGame.exe
+c:\users\denem\documents\visual studio 2015\Projects\QuickGame\QuickGame\QuickGame\obj\x86\Debug\QuickGame.pdb
+c:\users\denem\documents\visual studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Content\pixel.xnb
+c:\users\denem\documents\visual studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Content\Quick Game Sprite Sheet v1.xnb
+C:\Users\denem\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Content\TB Title Sprites.xnb
+C:\Users\denem\documents\visual studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Content\TB Title Sprites Dark.xnb
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\obj\x86\Debug\QuickGame.exe
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\obj\x86\Debug\QuickGame.pdb
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Content\SpriteFont2.xnb
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Content\pixel.xnb
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Content\Quick Game Sprite Sheet v1.xnb
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Content\TB Title Sprites.xnb
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Content\TB Title Sprites Dark.xnb
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\QuickGame.exe
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\QuickGame.pdb
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\obj\x86\Debug\QuickGame.csprojResolveAssemblyReference.cache
+D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

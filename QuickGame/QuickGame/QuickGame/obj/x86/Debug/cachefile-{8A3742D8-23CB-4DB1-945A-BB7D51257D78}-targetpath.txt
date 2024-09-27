@@ -1,0 +1,6 @@
+Content\SpriteFont1.xnb
+Content\SpriteFont2.xnb
+Content\pixel.xnb
+Content\Quick Game Sprite Sheet v1.xnb
+Content\TB Title Sprites.xnb
+Content\TB Title Sprites Dark.xnb

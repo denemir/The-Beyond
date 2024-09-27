@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2022-07-01T01:45:37.570481-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2021-03-22T01:01:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>pixel.png</Source>
+      <Name>pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Content\pixel.xnb</Output>
+      <Time>2021-02-02T23:14:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Quick Game Sprite Sheet v1.png</Source>
+      <Name>Quick Game Sprite Sheet v1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Content\Quick Game Sprite Sheet v1.xnb</Output>
+      <Time>2021-03-22T16:46:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TB Title Sprites.png</Source>
+      <Name>TB Title Sprites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Content\TB Title Sprites.xnb</Output>
+      <Time>2021-04-06T03:21:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TB Title Sprites Dark.png</Source>
+      <Name>TB Title Sprites Dark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Content\TB Title Sprites Dark.xnb</Output>
+      <Time>2021-04-06T20:28:30-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{8A3742D8-23CB-4DB1-945A-BB7D51257D78}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGameContent\</RootDirectory>
+      <LoggerRootDirectory>D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\C Drive\Documents\Visual Studio 2015\Projects\QuickGame\QuickGame\QuickGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2021-09-24T12:56:45.429076-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
